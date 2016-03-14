@@ -1,0 +1,10 @@
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\bin\Emgu.CV.License.txt
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\bin\Example.MotionDetection.exe
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\bin\Example.MotionDetection.pdb
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\Debug\Example.MotionDetection.exe
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+D:\HIS-Projects\C#\MotionDetection\obj\Debug\Example.MotionDetection.exe
+D:\HIS-Projects\C#\MotionDetection\obj\Debug\Example.MotionDetection.pdb

@@ -1,0 +1,96 @@
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.CV.License.txt
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Example.MotionDetection.exe
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Example.MotionDetection.pdb
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.CV.dll
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.Util.dll
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.CV.xml
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\bin\x86\Debug\Emgu.Util.xml
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\x86\Debug\MotionDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\x86\Debug\MotionDetection.Form1.resources
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\x86\Debug\MotionDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\x86\Debug\Example.MotionDetection.exe
+C:\Emgu\emgucv-windows-x86 2.4.0.1717\Emgu.CV.Example\MotionDetection\obj\x86\Debug\Example.MotionDetection.pdb
+D:\HIS-Projects\C#\MotionDetection\obj\x86\Debug\Example.MotionDetection.exe
+D:\HIS-Projects\C#\MotionDetection\obj\x86\Debug\Example.MotionDetection.pdb
+D:\HIS-Projects\C#\MotionDetection\obj\x86\Debug\MotionDetection.csprojResolveAssemblyReference.cache
+D:\HIS-Projects\C#\MotionDetection\obj\x86\Debug\MotionDetection.Form1.resources
+D:\HIS-Projects\C#\MotionDetection\obj\x86\Debug\MotionDetection.csproj.GenerateResource.Cache
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_calib3d240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_contrib240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_core240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_features2d240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_ffmpeg240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_flann240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_gpu240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_highgui240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_imgproc240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_legacy240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_ml240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_nonfree240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_objdetect240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_photo240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_stitching240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_video240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\opencv_videostab240.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Example.MotionDetection.exe
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Example.MotionDetection.pdb
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.GPU.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.ML.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.OCR.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.Stitching.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.UI.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.Util.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\ZedGraph.dll
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.xml
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.GPU.xml
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.ML.xml
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.OCR.xml
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.Stitching.xml
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.CV.UI.xml
+D:\HIS-Projects\C#\MotionDetection\bin\x86\Debug\Emgu.Util.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\obj\x86\Debug\Example.MotionDetection.exe
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\obj\x86\Debug\Example.MotionDetection.pdb
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_calib3d240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_contrib240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_core240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_features2d240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_ffmpeg240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_flann240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_gpu240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_highgui240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_imgproc240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_legacy240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_ml240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_nonfree240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_objdetect240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_photo240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_stitching240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_video240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\opencv_videostab240.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Example.MotionDetection.exe
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Example.MotionDetection.pdb
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.GPU.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.OCR.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.Stitching.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.Util.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\ZedGraph.dll
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.GPU.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.ML.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.OCR.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.Stitching.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\bin\x86\Debug\Emgu.Util.xml
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\obj\x86\Debug\MotionDetection.csprojResolveAssemblyReference.cache
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\obj\x86\Debug\MotionDetection.Form1.resources
+C:\Users\Bala\Desktop\RTS\MotionDetection-Cam\obj\x86\Debug\MotionDetection.csproj.GenerateResource.Cache
+C:\Users\Bala\Desktop\RTS\sourceCode\MotionDetection-Cam\obj\x86\Debug\Example.MotionDetection.exe
+C:\Users\Bala\Desktop\RTS\sourceCode\MotionDetection-Cam\obj\x86\Debug\Example.MotionDetection.pdb
